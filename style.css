@@ -124,11 +124,11 @@ header,
   color: #6D6D6D;
   cursor: pointer;
   font-size: 15px;
-  margin: 28px 
+  margin: 28px;
 }
 
 .bottom-content .settings i:hover{
-  color: red
+  color: red;
 }
  
 
